@@ -5,15 +5,15 @@
 // console.log(add("doston",32,"developer"));
 
 /////////////
-// function getInfo(a,b,c){
-//     let data ={
-//         a:a,
-//         b:b,
-//         c:c
-//     }
-//     return `mening isnim ${data.a}. yoshim ${data.b}. men ${data.c} ishlayman`
-// }
-// console.log(getInfo("doston",22,"devoloper"));
+function getInfo(a,b,c){
+    let data ={
+        a:a,
+        b:b,
+        c:c
+    }
+    return `mening isnim ${data.a}. yoshim ${data.b}. men ${data.c} ishlayman`
+}
+console.log(getInfo("doston",22,"devoloper"));
 
 //////////////////////////////////
 
